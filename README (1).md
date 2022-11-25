@@ -83,7 +83,4 @@ Explored AngularJs while building this project as it was new to me.
 
 
 
-## Video
-
-![Video_Link](https://youtu.be/GwIvAesD-6I)
 
